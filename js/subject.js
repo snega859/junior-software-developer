@@ -1,0 +1,5 @@
+document.write("<table border='1px'><tr><th>Name</th><th>Hours</th></tr>")
+document.write("<tr><td>Java</td><td>20hrs</td></tr>")
+document.write("<tr><td>Python</td><td>20hrs</td></tr>")
+document.write("<tr><td>HTML</td><td>20hrs</td></tr>")
+document.write("<tr><td>CSS</td><td>20hrs</td></tr></table>")
